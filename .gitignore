@@ -1,0 +1,10 @@
+### Jupyter Notebooks ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### macOS ###
+# General
+.DS_Store
+
+#### Private Data Folder ###
+/data/private
